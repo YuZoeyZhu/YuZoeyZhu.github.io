@@ -36,9 +36,4 @@ Skills Summary
 * Tools: GIT, Docker, Springboot, JIRA, Matlab
  
   
-Talks
-======
-* Sep 2021  Objective Bayes
-  * Poster presentation: [A Bayesian Hierarchical Model for COVID-19 Related Cause-of-death Assignment Using Verbal Autopsies](http://yuzoeyzhu.github.io/files/[Obayes_Poster]Probabilistic_Cause_of_death_Assignment_using_Verbal_Autopsies.pdf)
 
-  
