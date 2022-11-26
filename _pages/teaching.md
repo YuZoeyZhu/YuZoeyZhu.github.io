@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV_Test"
-permalink: /cv_test/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,36 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://academicpages.github.io/files/paper1.pdf)
+# University of California, Santa Cruz
 
-Education
-======
-* Ph.D in Statistics, University of California, Santa Cruz, 2025 (expected)
-* M.S. in Statistics, University of California, Davis,  2019
-* B.S. in Agricultual Economics and Management [JinShanBao Class], Nanjing Agricultural University, 2017
+## STAT 05 Statistics
+* Fall 2020, WInter 2021, Winter 2022
+* [TA Notes](https://github.com/YuZoeyZhu/STAT05-TANotes)
 
 
-
-Work Experience
-======
-* Aug 2019 - Aug 2020   ThoughtWorks
-  * Software Development Engineer
-
-* Jun 2018 - Sep 2018   Bank of Suning
-  * Intern - Risk Compliance Department, Big-data Team
-
-* July 2016 - Sep 2016   Harvard Gazetteer Project
-  * Remote Researcher
-  
-Skills Summary
-======
-* Languages: R, Python, SQL, Java, C++, JavaScript
-* Tools: GIT, Docker, Springboot, JIRA, Matlab
+## STAT 07 Statistical Methods for the Biological, Environmental, and Health Sciences
+* Fall 2021, Spring 2022
  
-  
-Talks
-======
-* Sep 2021  Objective Bayes
-  * Poster presentation: [A Bayesian Hierarchical Model for COVID-19 Related Cause-of-death Assignment Using Verbal Autopsies](http://yuzoeyzhu.github.io/files/[Obayes_Poster]Probabilistic_Cause_of_death_Assignment_using_Verbal_Autopsies.pdf)
 
-  
+
