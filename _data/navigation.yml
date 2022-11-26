@@ -19,9 +19,6 @@ main:
     
   - title: "CV"
     url: /cv/
-       
-  - title: "CV_Test"
-    url: /cv_test/
     
     
   ##- title: "Guide"
