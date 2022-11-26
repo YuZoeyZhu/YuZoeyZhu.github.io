@@ -35,8 +35,8 @@ Skills Summary
 * **Tools**: GIT, Docker, Springboot, JIRA, Matlab
 
  
- Honors and Rewards 
- ======
+Honors and Rewards 
+======
 * 2022  UCSC Statistics Summer Research Fellowship
 * 2022  UW Biostatistics Summer Institutes Scholarship
 * 2016  National Scholarship for Students with Excellent Academic Performance
