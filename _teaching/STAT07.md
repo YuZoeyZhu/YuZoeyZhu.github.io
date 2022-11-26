@@ -1,7 +1,5 @@
 ---
 title: "STAT07 Statistical Methods for the Biological, Environmental, and Health Sciences"
-collection: teaching
-type: "Discussion"
 permalink: /teaching/STAT07
 ---
 
