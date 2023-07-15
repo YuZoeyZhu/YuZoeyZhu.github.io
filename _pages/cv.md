@@ -33,10 +33,15 @@ Skills Summary
 ======
 * **Languages**: R, Python, SQL, Java, C++, JavaScript
 * **Tools**: GIT, Docker, Springboot, JIRA, Matlab
+* **Data Manipulation**: Data Cleaning, Exploratory Data Analysis, Data Visualization
+* **Hypothesis Testing**: A/B Testing, Test Design and Interpretation
+* **Statistical Modeling**: Bayesian Parametric/Non-parametric Modeling, Time Series Analysis, Machine Learning (GLMs, Tree-based Methods, SVMs, Supervised/Semi-supervised/Unsupervised Learning, etc.), Model Selection, Feature Engineering, Causal Inference, Optimization
 
- 
 Honors and Rewards 
 ======
+* 2023  UCSC Statistics Summer Research Fellowship
+* 2023  UCSC Graduate Dean's Travel Fellowship
+* 2023  WNAR Student Paper Competition Travel Fellowship
 * 2022  UCSC Statistics Summer Research Fellowship
 * 2022  UW Biostatistics Summer Institutes Scholarship
 * 2016  National Scholarship for Students with Excellent Academic Performance
