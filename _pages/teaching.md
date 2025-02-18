@@ -23,12 +23,12 @@ h1 {
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 19px;
     color: #16A085;
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 17px;
     color: #F39C12;
 }
 
