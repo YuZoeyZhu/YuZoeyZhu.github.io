@@ -59,25 +59,25 @@ Education
 
 Work Experience
 ======
-* Sept 2020 - Current   **UC Santa Cruz**
+* Sept 2020 - Current     **UC Santa Cruz**
   * Graduate Student Researcher
   
-* June 2024 - Sep 2024   **Microsoft**
+* June 2024 - Sep 2024     **Microsoft**
   * Data Scientist Intern - Azure Core, Azure Compute Tean
   
-* Oct 2023 - May 2024   **Tencent America**
+* Oct 2023 - May 2024     **Tencent America**
   * Data Scientist Research Intern - Tencent Game
 
-* Aug 2019 - Aug 2020   **ThoughtWorks**
+* Aug 2019 - Aug 2020     **ThoughtWorks**
   * Software Development Engineer
  
-* Jan 2019 - Aug 2019   **UC Davis**
+* Jan 2019 - Aug 2019     **UC Davis**
   * Graduate Student Researcher
 
-* Jun 2018 - Sep 2018   **Bank of Suning**
+* Jun 2018 - Sep 2018     **Bank of Suning**
   * Data Scientist Intern - Risk Compliance Department, Big-data Team
 
-* July 2016 - Sep 2016   **Harvard**
+* July 2016 - Sep 2016     **Harvard University**
   * Undergraduate Researcher
   
 Skills Summary
