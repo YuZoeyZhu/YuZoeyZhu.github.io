@@ -15,6 +15,4 @@ My research focuses on the development and application of parametric and non-par
 
 Beyond academia, I have industry research experience in causal inference, reinforcement learning, and large language models (LLMs). During my Ph.D., I worked as a Data Scientist Intern at Tencent America and Microsoft Azure, contributing to projects in treatment effect estimation, online experimentation, and AI/ML infrastructure.
 
-Prior to my Ph.D., I earned my M.S. in Statistics from the University of California, Davis, where I was advised by <a href="https://jsharpna.github.io" style="text-decoration: none; color: #3498DB;">Prof. James Sharpnack</a>. Before transitioning into research, I worked as a full-stack Software Development Engineer at <a href="https://www.thoughtworks.com/en-us" style="text-decoration: none; color: #3498DB;">ThoughtWorks</a>, gaining hands-on experience in software engineering, system design, and large-scale data processing.
-
-</span>
+Prior to my Ph.D., I earned my M.S. in Statistics from the University of California, Davis, where I was advised by <a href="https://jsharpna.github.io" style="text-decoration: none; color: #3498DB;">Prof. James Sharpnack</a>. Before transitioning into research, I worked as a full-stack Software Development Engineer at <a href="https://www.thoughtworks.com/en-us" style="text-decoration: none; color: #3498DB;">ThoughtWorks</a>, gaining hands-on experience in software engineering, system design, and large-scale data processing.</span>
