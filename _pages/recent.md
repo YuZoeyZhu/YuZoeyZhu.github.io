@@ -18,11 +18,13 @@ body {
 }
 
 h1 {
+    font-family: "Candara", serif;
     font-size: 22px;
     color: #2C3E50;
 }
 
 h2 {
+    font-family: "Candara", serif;
     font-size: 20px;
     color: #16A085;
 }
