@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 22px;
     color: #2C3E50;
 }
 
