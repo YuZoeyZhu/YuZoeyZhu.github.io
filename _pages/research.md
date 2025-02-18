@@ -10,6 +10,10 @@ author_profile: true
 ### Overview
 Monitoring causes of death is crucial for understanding disease burdens and shaping public health interventions. In many low-resource settings, **verbal autopsy (VA)** is the primary tool for cause-of-death surveillance, relying on structured interviews with caregivers of the deceased. However, existing VA models often require **extensive domain knowledge** or **large labeled datasets**, making them **ill-suited for emerging diseases** with rapidly evolving epidemiological patterns.
 
+<div align="center">
+    <img src="../images/R1_symptoms_dist.png" alt="Symptoms Distribution by Time and Age" width="500">
+</div>
+
 ### Our Contribution
 In our research, we propose a **Bayesian hierarchical latent class model** that accounts for **partially verified VA data**, enabling robust **cause-of-death estimation** under real-world data constraints. Key innovations include:
 
@@ -26,7 +30,7 @@ In our research, we propose a **Bayesian hierarchical latent class model** that 
   - Our method produces **more accurate prevalence estimates** compared to existing approaches.
  
 <div align="center">
-    <img src="../images/R1_latent_class_profiles.png" alt="Latent Class_Profiles" width="500">
+    <img src="../images/R1_latent_class_profiles.png" alt="Latent Class Profiles" width="500">
 </div>
  
 
@@ -45,7 +49,7 @@ In our research, we propose a **Bayesian hierarchical latent class model** that 
 
 ________________________________________________________________________________________________________________________________________
 
-## Treatment Effect Estimation in Dynamic Network Environments
+## Treatment Effect Estimation in Dynamic Network Environments [CODE@MIT, 2024]
 
 ### Overview
 Online multiplayer games introduce **complex interactions** among players, making it difficult to assess the true impact of game features. Traditional **A/B testing** methods, which assume **no interference among units (SUTVA)**, fail in these settings due to the **dynamic and ephemeral network structures** formed during gameplay.
@@ -95,4 +99,71 @@ To address these challenges, we propose a **causal inference framework** specifi
 
 ### Read More
 📄 **[Full Paper: Treatment Effect Estimation Amidst Dynamic Network Interference](#)** *(https://arxiv.org/abs/2402.05336)*  
+
+________________________________________________________________________________________________________________________________________
+## Bayesian Tensor Decomposition for Verbal Autopsy Analysis
+
+### Overview
+Accurate **cause-of-death estimation** is critical for understanding disease burdens and shaping public health policy, especially in **low-resource settings** where medical certification of deaths is often unavailable. **Verbal autopsy (VA)** is a widely used alternative, relying on interviews with caregivers to infer the probable cause of death.
+
+Traditional VA models often use **latent class models**, which assume that symptoms are **conditionally independent** given the cause of death. However, real-world symptom distributions exhibit **complex dependencies**, making them **hard to interpret** and potentially limiting their accuracy.
+
+### Our Contribution
+We propose a **Bayesian hierarchical tensor decomposition** framework that balances **predictive accuracy** with **interpretability** in VA cause-of-death estimation.
+
+
+Key innovations include:
+
+- **Flexible Probabilistic Tensor Decomposition**
+  - Models **grouped symptom dependencies** to improve interpretability.
+  - Uses **hierarchical Bayesian modeling** for better generalization.
+
+- **Dimension-Grouped Factorization**
+  - Introduces **r-group independent PARAFACs** and **c-Tucker decomposition** to represent symptom clusters.
+  - Improves **latent class interpretability** by structuring **sub-profiles of symptoms**.
+
+- **Scalable Bayesian Inference**
+  - Implements an **efficient Markov Chain Monte Carlo (MCMC) approach** for model estimation.
+  - Balances **accuracy and computational feasibility** for large datasets.
+
+### Key Results
+We evaluate our method on **simulated and real-world VA data**, including the **PHMRC gold-standard dataset**, showing that:
+
+- **Our Bayesian tensor decomposition model improves accuracy** in cause-of-death estimation.
+- **Grouping symptoms** enhances interpretability without sacrificing predictive power.
+- **Comparison with baseline models (LCVA, InSilicoVA, standard PARAFAC)** confirms our approach is both **more robust and generalizable**.
+
+<div align="center">
+    <img src="../images/R3_latent_class_profiles.png" alt="Latent Class_Profiles for Stroke" width="500">
+</div>
+
+### Case Study: PHMRC Gold-Standard VA Dataset
+We applied our model to **7,841 adult deaths across 34 causes** from the PHMRC dataset, demonstrating:
+
+- **Improved cause-of-death classification** compared to existing methods.
+- **Clearer latent symptom clustering**, making VA-based mortality modeling more interpretable.
+
+#### **Learned Symptom Clustering**
+The model identifies **distinct symptom groups** that correlate with specific diseases, reducing the complexity of high-dimensional VA data.
+
+
+#### **Cause-of-Death Relationships**
+Hierarchical clustering of causes based on symptom structures reveals **intuitive groupings**, such as cardiovascular diseases forming a distinct cluster.
+
+<div align="center">
+    <img src="../images/R3_CoD_dendrogram.png" alt="Cause of Death Clustering" width="500">
+</div>
+
+### Why This Matters
+- **More Accurate Mortality Estimates**  
+  - Reduces bias from **simplistic symptom independence assumptions**.  
+
+- **Improved Interpretability for Public Health Policy**  
+  - Helps **health organizations** better understand disease relationships.  
+
+- **Scalable Bayesian Framework for Future VA Research**  
+  - Enables more **generalizable models** across different datasets and populations.
+
+### Read More
+📄 **[Full Paper: Bayesian Tensor Decomposition for VA](#)** *(https://arxiv.org/abs/2502.00171)*  
 
