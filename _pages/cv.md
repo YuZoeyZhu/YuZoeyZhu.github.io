@@ -31,6 +31,9 @@ Work Experience
 
 * Aug 2019 - Aug 2020   **ThoughtWorks**
   * Software Development Engineer
+ 
+* Jan 2019 - Aug 2019   **UC Davis**
+  * Graduate Student Researcher
 
 * Jun 2018 - Sep 2018   **Bank of Suning**
   * Data Scientist Intern - Risk Compliance Department, Big-data Team
