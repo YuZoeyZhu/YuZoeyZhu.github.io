@@ -25,7 +25,7 @@ In our research, we propose a **Bayesian hierarchical latent class model** that 
   - We apply our model to **COVID-19 mortality data** in Brazil (2021), demonstrating how traditional models suffer from bias under selective verification.
   - Our method produces **more accurate prevalence estimates** compared to existing approaches.
  
-![Latent Class_Profiles](_images/R1_latent_class_profiles.png)
+![Latent Class_Profiles](./images/R1_latent_class_profiles.png)
 
 ### Why This Matters
 - **Adaptable to Future Public Health Crises**  
