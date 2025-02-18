@@ -6,13 +6,46 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+body {
+    font-family: "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #2C3E50;
+}
+
+h1 {
+    font-size: 24px;
+    color: #2C3E50;
+}
+
+h2 {
+    font-size: 20px;
+    color: #16A085;
+}
+
+h3 {
+    font-size: 18px;
+    color: #F39C12;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;  /* 去掉链接下划线 */
+    color: #3498DB;         /* 设置链接颜色 */
+}
+
+a:hover {
+    color: #E74C3C;         /* 鼠标悬停时的颜色 */
+}
+</style>
 
 
-<span style="font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 14px; color:#2C3E50;">
-
-I am a 5th-year Ph.D. candidate in the Department of Statistics at the University of California, Santa Cruz, advised by <a href="https://zehangli.com" style="text-decoration: none; color: #3498DB;">Prof. Zehang (Richard) Li</a>.  
-My research focuses on the development and application of parametric and non-parametric Bayesian models, with an emphasis on Bayesian latent variable models for prevalence estimation and cause-of-death prediction under domain adaptation (<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pZsCRpMAAAAJ&inst=1581658869211165550" style="text-decoration: none; color: #3498DB;">Google Scholar</a>).
+I am a 5th-year Ph.D. candidate in the Department of Statistics at the University of California, Santa Cruz, advised by [Prof. Zehang (Richard) Li](https://zehangli.com). My research focuses on the development and application of parametric and non-parametric Bayesian models, with an emphasis on Bayesian latent variable models for prevalence estimation and cause-of-death prediction under domain adaptation ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pZsCRpMAAAAJ&inst=1581658869211165550)).
 
 Beyond academia, I have industry research experience in causal inference, reinforcement learning, and large language models (LLMs). During my Ph.D., I worked as a Data Scientist Intern at Tencent America and Microsoft Azure, contributing to projects in treatment effect estimation, online experimentation, and AI/ML infrastructure.
 
-Prior to my Ph.D., I earned my M.S. in Statistics from the University of California, Davis, where I was advised by <a href="https://jsharpna.github.io" style="text-decoration: none; color: #3498DB;">Prof. James Sharpnack</a>. Before transitioning into research, I worked as a full-stack Software Development Engineer at <a href="https://www.thoughtworks.com/en-us" style="text-decoration: none; color: #3498DB;">ThoughtWorks</a>, gaining hands-on experience in software engineering, system design, and large-scale data processing.</span>
+Prior to my Ph.D., I earned my M.S. in Statistics from the University of California, Davis, where I was advised by [Prof. James Sharpnack](https://jsharpna.github.io). Before transitioning into research, I worked as a full-stack Software Development Engineer at [ThoughtWorks](https://www.thoughtworks.com/en-us), gaining hands-on experience in software engineering, system design, and large-scale data processing.
