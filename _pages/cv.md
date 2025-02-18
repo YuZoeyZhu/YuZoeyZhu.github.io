@@ -34,6 +34,10 @@ h3 {
     color: #F39C12;
 }
 
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Aptos", sans-serif;
+}
+
 p {
     font-size: 16px;
 }
@@ -63,7 +67,7 @@ Work Experience
   * Graduate Student Researcher
   
 * June 2024 - Sep 2024     **Microsoft**
-  * Data Scientist Intern - Azure Core, Azure Compute Tean
+  * Data Scientist Intern - Azure Core, Azure Compute Team
   
 * Oct 2023 - May 2024     **Tencent America**
   * Data Scientist Research Intern - Tencent Game
