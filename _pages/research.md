@@ -75,8 +75,8 @@ To address these challenges, we propose a **causal inference framework** specifi
 - **Empirical Validation with Real Gaming Data**  
   - We test our framework on a **Tencent mobile gaming experiment** involving **58,565 players** over two weeks.
   - Results show that **naïve estimators** significantly **underestimate treatment effects**, while our method **corrects for interference bias**.
-
-![Network Interference in Online Gaming](../images/R2_simulation_comparisons.png){ width=400px }
+    
+<img src="images/R2_simulation_comparisons.png" alt="Treatment Effect Estimation Comparisons in Simulation Study" width="300">
 
 
 ### Why This Matters
