@@ -11,6 +11,45 @@ redirect_from:
 
 [Download CV here](http://yuzoeyzhu.github.io/files/Resume_Yu__Zoey__Zhu.pdf)
 
+<style>
+body {
+    font-family: "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #2C3E50;
+}
+
+h1 {
+    font-size: 24px;
+    color: #2C3E50;
+}
+
+h2 {
+    font-size: 20px;
+    color: #16A085;
+}
+
+h3 {
+    font-size: 18px;
+    color: #F39C12;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;  /* 去掉链接下划线 */
+    color: #3498DB;         /* 设置链接颜色 */
+}
+
+a:hover {
+    color: #E74C3C;         /* 鼠标悬停时的颜色 */
+}
+</style>
+
+
+
 Education
 ======
 * Ph.D in Statistics, University of California, Santa Cruz, June, 2025 (expected)
