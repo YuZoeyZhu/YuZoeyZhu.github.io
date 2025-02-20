@@ -57,23 +57,24 @@ strong, b {
 </style>
 
 
-Talks
+Contributed Talks
 ======
-* Oct 2024  **CODE@MIT**
+* Oct 2024  **Conference on Digital Experimentation @ MIT (CODE@MIT)** Cambridge, MA
     * Treatment Effect Estimation Amidst Dynamic Network Interference in Online Gaming Experiments
-  
-* Aug 2024  **JSM**
+   
+* Aug 2024  **Joint Statistical Meetings (JSM)** Portland, Oregon
     * A Bayesian Hierarchical Model for Mortality Surveillance using Verbal Autopsy 
   
-* Jun 2023  **WNAR**
+* Jun 2023  **WNAR Conference** Anchorage, Alaska
     * A Bayesian Hierarchical Model for Mortality Surveillance using Partially Verified Verbal Autopsy Data [[Slides]](https://github.com/YuZoeyZhu/STAT_Conference/blob/main/Yu__Zoey__Zhu__WNAR_presentation_slides.pdf)
 
 
 Posters
 ======
-* Mar 2025  **ENAR**
+* Mar 2025  **ENAR 2025 Spring Meeting** New Orleans, LA
+    * [[Poster]](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/_ENAR_Poster__COVID_VA.pdf)
   
-* Sep 2022  **Objective Bayes**
+* Sep 2022  **O'Bayes 2022: Objective Bayes Methodology Conference** UC Santa Cruz, CA
     * A Bayesian Hierarchical Model for COVID-19 Related Cause-of-death Assignment Using Verbal Autopsies [[Poster]](http://yuzoeyzhu.github.io/files/[Obayes_Poster]Probabilistic_Cause_of_death_Assignment_using_Verbal_Autopsies.pdf)
 
   
