@@ -72,7 +72,7 @@ Contributed Talks
 Posters
 ======
 * Mar 2025  **ENAR 2025 Spring Meeting** New Orleans, LA
-    * [[Poster]](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/_ENAR_Poster__COVID_VA.pdf)
+    * Hierarchical Latent Class Models for Mortality Surveillance using Partially Verified Verbal Autopsies [[Poster]](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/_ENAR_Poster__COVID_VA.pdf)
   
 * Sep 2022  **O'Bayes 2022: Objective Bayes Methodology Conference** UC Santa Cruz, CA
     * A Bayesian Hierarchical Model for COVID-19 Related Cause-of-death Assignment Using Verbal Autopsies [[Poster]](http://yuzoeyzhu.github.io/files/[Obayes_Poster]Probabilistic_Cause_of_death_Assignment_using_Verbal_Autopsies.pdf)
