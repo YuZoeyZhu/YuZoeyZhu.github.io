@@ -59,6 +59,9 @@ strong, b {
 
 Contributed Talks
 ======
+* Aug 2025  **Joint Statistical Meetings (JSM)** Nashville, Tennessee
+    * Flexible Bayesian Tensor Decomposition for Verbal Autopsy Data
+      
 * Oct 2024  **Conference on Digital Experimentation @ MIT (CODE@MIT)** Cambridge, MA
     * Treatment Effect Estimation Amidst Dynamic Network Interference in Online Gaming Experiments
    
