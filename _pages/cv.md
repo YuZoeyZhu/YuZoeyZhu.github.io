@@ -62,7 +62,6 @@ Education
 ======
 * Ph.D in Statistics, University of California, Santa Cruz, June, 2025 (expected)
 * M.S. in Statistics, University of California, Davis,  2019
-* B.S. in Agricultual Economics and Management [_JinShanBao Class_], Nanjing Agricultural University, 2017
 
 
 Work Experience
