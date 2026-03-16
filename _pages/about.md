@@ -13,7 +13,6 @@ body {
     line-height: 1.75;
     color: #1F2933;
     background-color: #FAFAFA;
-    max-width: 820px;
     margin: 60px auto;
     padding: 0 20px;
 }
