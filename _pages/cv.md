@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[🔗 Download CV here](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/Resume_Yu__Zoey__Zhu_for_AI_%5B0315%5D.pdf)
+[🔗 Download Resume here](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/Resume_Yu__Zoey__Zhu_for_AI_%5B0315%5D.pdf)
 
 <style>
 body {
