@@ -74,15 +74,16 @@ strong, b {
 
 @media (min-width: 57.8125em) {
   .page {
-      width: auto !important;
+      float: right !important;     /* 保持原结构 */
+      width: calc(100% - 300px) !important;  /* sidebar 约 300px */
       max-width: 1100px !important;
-      float: none !important;
-      margin-left: 260px !important; /* sidebar 宽度 */
       padding: 0 40px !important;
   }
 }
+
+/* 防止底部被遮挡 */
 .page {
-    padding-bottom: 120px !important;
+    padding-bottom: 140px !important;
 }
 </style>
 
