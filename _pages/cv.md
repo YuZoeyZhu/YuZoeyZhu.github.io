@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Protofolio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/Resume_Yu__Zoey__Zhu_for_AI_%5B0315%5D.pdf)
+[🔗 Download CV here](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/Resume_Yu__Zoey__Zhu_for_AI_%5B0315%5D.pdf)
 
 <style>
 body {
@@ -56,7 +56,58 @@ strong, b {
 }
 </style>
 
+## 💼 Work Experience
 
+### **Meta** — Research Scientist, Feed Recommendation  
+*June 2025 – Present*
+
+- Sequence-level RL policy optimization for personalized feed ranking  
+- Transfer learning for recurrent RL to improve convergence stability  
+- Reward modeling refinement (debiased VPV alignment)  
+- Hierarchical latent reasoning LLM-as-Judge framework with SFT + distillation  
+- Online A/B experimentation for topline impact  
+
+---
+
+### **Microsoft** — Data Scientist Intern, Azure Compute  
+*June 2024 – Sept 2024*
+
+- Constrained RL under non-stationary reward distributions  
+- Agentic LLM reasoning system for root cause analysis  
+- Human-in-the-loop feedback pipeline (RLHF-ready design)  
+- Evaluation harness for systematic model benchmarking  
+
+---
+
+### **Tencent America** — Research Data Scientist Intern  
+*Oct 2023 – May 2024*
+
+- Treatment effect estimation under network interference  
+- Bayesian modeling for online experimentation  
+
+---
+
+## 🎓 Education
+
+**Ph.D. in Statistics**, UC Santa Cruz — 2025  
+**M.S. in Statistics**, UC Davis — 2019  
+
+---
+
+## 🛠 Skills
+
+**Languages:** R, Python, SQL, Java, C++, JavaScript, Machine Learning Frameworks: Keras, PyTorch, Tensorflow
+**Statistics and Experimentationg:** A/B Testing, Experimental Design, Causal Inference, Bayesian Optimization  
+**AI and Learning System:** Reinforcement Learning (Policy Optimization, Q-learning, PPO/GRPO-style Optimization, RLHF), Sequence-level RL for Ranking & Personalization, LLM Post-training (SFT, Distillation, Preference Modeling), LLM Inference & Serving (vLLM, Low-latency Deployment), Reward Modeling & Alignment under Distribution Shift, Agentic Workflow Design & Feedback Loops, Transfer Learning & Cross-Domain Generalization, Online Experimentation & Evaluation Harness Design  
+
+---
+
+## 🏆 Selected Honors
+
+- UCSC Graduate Dean’s Fellowship  
+- SFASA Travel Award  
+- WNAR Student Paper Competition Fellowship  
+- National Scholarship for Academic Excellence  
 
 Education
 ======
