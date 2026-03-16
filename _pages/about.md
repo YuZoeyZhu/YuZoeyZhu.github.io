@@ -10,7 +10,7 @@ redirect_from:
 body {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 15.5px;
-    line-height: 1.65;
+    line-height: 1.55;
     color: #1F2933;
     background-color: #FAFAFA;
     padding: 0 20px;
