@@ -24,7 +24,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 26px;
     color: #111827;
     margin-bottom: 25px;
 }
@@ -49,7 +49,7 @@ p {
 }
 
 ul {
-    margin-top: 10px;
+    margin-top: 8px;
     margin-bottom: 25px;
 }
 
