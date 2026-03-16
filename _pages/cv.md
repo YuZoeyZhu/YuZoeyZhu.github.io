@@ -97,7 +97,6 @@ strong, b {
 ## 🛠 Skills
 
 **Languages:** R, Python, SQL, Java, C++, JavaScript, Machine Learning Frameworks: Keras, PyTorch, Tensorflow 
-
 **Statistics and Experimentationg:** A/B Testing, Experimental Design, Causal Inference, Bayesian Optimization  
 **AI and Learning System:** Reinforcement Learning (Policy Optimization, Q-learning, PPO/GRPO-style Optimization, RLHF), Sequence-level RL for Ranking & Personalization, LLM Post-training (SFT, Distillation, Preference Modeling), LLM Inference & Serving (vLLM, Low-latency Deployment), Reward Modeling & Alignment under Distribution Shift, Agentic Workflow Design & Feedback Loops, Transfer Learning & Cross-Domain Generalization, Online Experimentation & Evaluation Harness Design  
 
