@@ -71,12 +71,13 @@ strong, b {
     color: #111827;
     font-weight: 600;
 }
-.main-content,
-.page-content,
-.container,
-.wrapper {
-    max-width: 1100px !important;
-    margin: 0 auto !important;
+
+@media (min-width: 57.8125em) {
+  .page {
+      width: 92% !important;
+      padding-left: 4% !important;
+      padding-right: 4% !important;
+  }
 }
 </style>
 
