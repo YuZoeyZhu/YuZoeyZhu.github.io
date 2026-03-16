@@ -75,8 +75,7 @@ strong, b {
 @media (min-width: 57.8125em) {
   .page {
       width: 92% !important;
-      padding-left: 4% !important;
-      padding-right: 4% !important;
+      padding: 0 4% !important;
   }
 }
 </style>
