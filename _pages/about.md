@@ -74,7 +74,7 @@ strong, b {
 </style>
 
 ## About
-I am currently a Research Scientist at Meta working on GenAI systems for feed recommendation, focusing on large language models (LLMs), reinforcement learning, and agentic workflows for sequence-level personalization, alignment and evaluation. Previously, I was interning as a research data scientist at Microsoft Azure and Tencent America IEGG for one year.
+I am currently a Research Scientist at Meta working on GenAI systems for feed recommendation, focusing on large language models, reinforcement learning, and agentic workflows for sequence-level personalization, alignment and evaluation. Previously, I was interning as a research data scientist at Microsoft Azure and Tencent America IEGG for one year.
 
 I received my Ph.D. in Statistics from the University of California, Santa Cruz, advised by [Prof. Zehang (Richard) Li](https://zehangli.com). My research focuses on the development and application of parametric and non-parametric Bayesian models, with an emphasis on Bayesian latent variable models for prevalence estimation and cause-of-death prediction under domain adaptation ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pZsCRpMAAAAJ&inst=1581658869211165550)).
 Prior to my Ph.D., I earned my M.S. in Statistics from the University of California, Davis, where I was advised by [Prof. James Sharpnack](https://jsharpna.github.io). Before transitioning into research, I also worked as a full-stack Software Development Engineer at ThoughtWorks, gaining hands-on experience in software engineering, system design, and large-scale data processing.
