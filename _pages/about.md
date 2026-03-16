@@ -74,8 +74,11 @@ strong, b {
 
 @media (min-width: 57.8125em) {
   .page {
-      width: 92% !important;
-      padding: 0 4% !important;
+      width: auto !important;
+      max-width: 1100px !important;
+      float: none !important;
+      margin-left: 260px !important; /* sidebar 宽度 */
+      padding: 0 40px !important;
   }
 }
 </style>
