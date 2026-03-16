@@ -79,7 +79,7 @@ strong, b {
 
 ---
 
-### **Tencent America** — Research Data Scientist Intern  
+### **Tencent America** — Research Data Scientist Intern, IEG Global  
 *Oct 2023 – May 2024*
 
 - Treatment effect estimation under network interference  
@@ -108,55 +108,4 @@ strong, b {
 - SFASA Travel Award  
 - WNAR Student Paper Competition Fellowship  
 - National Scholarship for Academic Excellence  
-
-Education
-======
-* Ph.D in Statistics, University of California, Santa Cruz, June, 2025 
-* M.S. in Statistics, University of California, Davis,  2019
-
-
-Work Experience
-======
-* June 2025 - Present     **Meta**
-  * Research Scientist - Feed Recommendation
-    
-* Sept 2020 - June 2025     **UC Santa Cruz**
-  * Graduate Student Researcher
-  
-* June 2024 - Sep 2024     **Microsoft**
-  * Data Scientist Intern - Azure Core, Azure Compute 
-  
-* Oct 2023 - May 2024     **Tencent America**
-  * Data Scientist Research Intern - Tencent Game, IEG Global
-
-* Aug 2019 - Aug 2020     **ThoughtWorks**
-  * Software Development Engineer
- 
-* Jan 2019 - Aug 2019     **UC Davis**
-  * Graduate Student Researcher
-
-* Jun 2018 - Sep 2018     **Bank of Suning**
-  * Data Scientist Intern - Risk Compliance, Big-data Team
-
-* July 2016 - Sep 2016     **Harvard University**
-  * Undergraduate Researcher
-  
-Skills Summary
-======
-* **Languages**: R, Python, SQL, Java, C++, JavaScript, Machine Learning Frameworks: Keras, PyTorch, Tensorflow
-* **Statistics and Experimentationg**: A/B Testing, Experimental Design, Causal Inference, Bayesian Optimization
-* **AI and Learning System**: Reinforcement Learning (Policy Optimization, Q-learning, PPO/GRPO-style Optimization, RLHF), Sequence-level RL for Ranking & Personalization, LLM Post-training (SFT, Distillation, Preference Modeling), LLM Inference & Serving (vLLM, Low-latency Deployment), Reward Modeling & Alignment under Distribution Shift, Agentic Workflow Design & Feedback Loops, Transfer Learning & Cross-Domain Generalization, Online Experimentation & Evaluation Harness Design
-
-Honors and Rewards 
-======
-* 2024  SFASA Student Travel Award
-* 2024  UCSC Graduate Dean’s Travel Fellowship
-* 2023  UCSC Statistics Summer Research Fellowship
-* 2023  UCSC Graduate Dean's Travel Fellowship
-* 2023  WNAR Student Paper Competition Travel Fellowship
-* 2022  UCSC Statistics Summer Research Fellowship
-* 2022  UW Biostatistics Summer Institutes Scholarship
-* 2016  National Scholarship for Students with Excellent Academic Performance
-* 2015  University Scholarship for Students with Excellent Academic Performance
-* 2015  Outstanding Leader of Student Association for Science and Technology
 
