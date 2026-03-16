@@ -71,6 +71,13 @@ strong, b {
     color: #111827;
     font-weight: 600;
 }
+.main-content,
+.page-content,
+.container,
+.wrapper {
+    max-width: 1100px !important;
+    margin: 0 auto !important;
+}
 </style>
 
 ## About
