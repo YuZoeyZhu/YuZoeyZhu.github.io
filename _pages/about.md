@@ -8,38 +8,70 @@ redirect_from:
 ---
 <style>
 body {
-    font-family: "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
-    font-size: 16px;
-    line-height: 1.6;
-    color: #2C3E50;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #1F2933;
+    background-color: #FAFAFA;
+    max-width: 820px;
+    margin: 60px auto;
+    padding: 0 20px;
+}
+
+/* Headings use modern sans-serif for contrast */
+h1, h2, h3 {
+    font-family: "Inter", "Aptos", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.3px;
 }
 
 h1 {
-    font-size: 24px;
-    color: #2C3E50;
+    font-size: 30px;
+    color: #111827;
+    margin-bottom: 25px;
 }
 
 h2 {
     font-size: 20px;
-    color: #16A085;
+    color: #111827;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #E5E7EB;
+    padding-bottom: 6px;
 }
 
 h3 {
     font-size: 18px;
-    color: #F39C12;
+    color: #374151;
+    margin-top: 30px;
 }
 
 p {
-    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+ul {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+li {
+    margin-bottom: 8px;
 }
 
 a {
-    text-decoration: none;  /* 去掉链接下划线 */
-    color: #3498DB;         /* 设置链接颜色 */
+    text-decoration: none;
+    color: #2563EB;
+    transition: color 0.2s ease;
 }
 
 a:hover {
-    color: #E74C3C;         /* 鼠标悬停时的颜色 */
+    color: #1E40AF;
+}
+
+strong, b {
+    color: #111827;
+    font-weight: 600;
 }
 </style>
 
@@ -56,7 +88,7 @@ Prior to my Ph.D., I earned my M.S. in Statistics from the University of Califor
 - Reward modeling under distribution shift  
 - Online experimentation design and observational study
 - Bayesian latent variable modeling
-- Causal Inference
+- Causal inference
 
 
 ## Selected Works
