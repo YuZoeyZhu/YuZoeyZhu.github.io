@@ -44,7 +44,7 @@ p {
 
 a {
     text-decoration: none;  /* 去掉链接下划线 */
-    color: #3498DB;         /* 设置链接颜色 */
+    color: #2563EB;         /* 设置链接颜色 */
 }
 
 a:hover {
