@@ -81,6 +81,19 @@ strong, b {
       padding: 0 40px !important;
   }
 }
+
+html, body {
+    height: auto !important;
+    overflow-y: auto !important;
+}
+
+#main {
+    overflow: visible !important;
+}
+
+.page {
+    overflow: visible !important;
+}
 </style>
 
 ## About
