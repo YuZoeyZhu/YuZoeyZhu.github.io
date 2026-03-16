@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://yuzoeyzhu.github.io/files/Resume_Yu__Zoey__Zhu.pdf)
+[Download CV here](https://github.com/YuZoeyZhu/YuZoeyZhu.github.io/blob/master/files/Resume_Yu__Zoey__Zhu_for_AI_%5B0315%5D.pdf)
 
 <style>
 body {
@@ -60,20 +60,23 @@ strong, b {
 
 Education
 ======
-* Ph.D in Statistics, University of California, Santa Cruz, June, 2025 (expected)
+* Ph.D in Statistics, University of California, Santa Cruz, June, 2025 
 * M.S. in Statistics, University of California, Davis,  2019
 
 
 Work Experience
 ======
-* Sept 2020 - Current     **UC Santa Cruz**
+* June 2025 - Present     **Meta**
+  * Research Scientist - Feed Recommendation
+    
+* Sept 2020 - June 2025     **UC Santa Cruz**
   * Graduate Student Researcher
   
 * June 2024 - Sep 2024     **Microsoft**
-  * Data Scientist Intern - Azure Core, Azure Compute Team
+  * Data Scientist Intern - Azure Core, Azure Compute 
   
 * Oct 2023 - May 2024     **Tencent America**
-  * Data Scientist Research Intern - Tencent Game
+  * Data Scientist Research Intern - Tencent Game, IEG Global
 
 * Aug 2019 - Aug 2020     **ThoughtWorks**
   * Software Development Engineer
@@ -82,18 +85,16 @@ Work Experience
   * Graduate Student Researcher
 
 * Jun 2018 - Sep 2018     **Bank of Suning**
-  * Data Scientist Intern - Risk Compliance Department, Big-data Team
+  * Data Scientist Intern - Risk Compliance, Big-data Team
 
 * July 2016 - Sep 2016     **Harvard University**
   * Undergraduate Researcher
   
 Skills Summary
 ======
-* **Languages**: R, Python, SQL, Java, C++, JavaScript
-* **Tools**: GIT, Docker, Springboot, JIRA, Matlab
-* **Data Manipulation**: Data Cleaning, Exploratory Data Analysis, Data Visualization
-* **Hypothesis Testing**: A/B Testing, Test Design and Interpretation
-* **Statistical Modeling**: Bayesian Hierarchical Modeling, Bayesian Parametric/Non-parametric Modeling, Causal Inference, Deep Learning (CNN, LSTM, GAN, etc.), Machine Learning (GLMs, Tree-based Methods, SVMs, Supervised/Semi-supervised/Unsupervised Learning, etc.), Reinforcement Learning, Data Mining, Time Series Analysis, Model Selection, Feature Engineering, Optimization, Distribution Shift, Domain Adaptation, Zero-shot Learning, LLM with prompt engineering and fine-tuning
+* **Languages**: R, Python, SQL, Java, C++, JavaScript, Machine Learning Frameworks: Keras, PyTorch, Tensorflow
+* **Statistics and Experimentationg**: A/B Testing, Experimental Design, Causal Inference, Bayesian Optimization
+* **AI and Learning System**: Reinforcement Learning (Policy Optimization, Q-learning, PPO/GRPO-style Optimization, RLHF), Sequence-level RL for Ranking & Personalization, LLM Post-training (SFT, Distillation, Preference Modeling), LLM Inference & Serving (vLLM, Low-latency Deployment), Reward Modeling & Alignment under Distribution Shift, Agentic Workflow Design & Feedback Loops, Transfer Learning & Cross-Domain Generalization, Online Experimentation & Evaluation Harness Design
 
 Honors and Rewards 
 ======
